@@ -1,0 +1,162 @@
+.primary-navbar{
+    background-color: #131921;
+    display:flexbox;
+    height:60px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    color:white;
+    padding-left:15px;
+    padding-right:15px; 
+    }
+    .secondary-navbar{
+        justify-content: space-between;
+        display:flexbox;
+        height:40px; 
+        width:100%;
+        background-color:#232f3e ;
+    }
+    body{
+        margin:0px;
+    }
+    .logo{
+        height:40px;
+        margin-right: 20px;
+    }
+    .text-white{
+        color: white;
+
+    }
+    h1,h2,h3,h4,h5,h6,p{
+        margin:0px;
+    }
+    .icon{
+        height:30px;
+
+    }
+    .flex{
+        
+        display:flex;
+    }
+    .search-container{
+        height: 40px;
+        width: 40%;
+        border-radius: 5px;
+        background-color: white;
+        
+    }
+    .search-container h3{
+        height: 40px;
+        width: 40px;
+        color:black;
+        border-radius:5px 0px 0px 5px ;
+        background-color: lightgray;
+        display: flex;
+        align-items:center;
+        justify-content:center;
+    }
+    .search-container input{
+        width: 100%;
+        color:grey;
+        font-size:16px;
+        padding-left: 10px;
+    }
+    .search-container button{
+        border-radius:0px 5px 5px 0px ;
+        border: none;
+        background-color: orange;
+    }
+    .align-items-center{
+        align-items: center;
+
+    }
+    .primary-navbar .icon{
+        margin-right: 5px;
+    }
+    .secondary-navbar a{
+        color: white;
+        margin-right:20px ;
+        text-decoration: none;
+    }
+    .mr-15{
+        margin-right: 15px;
+
+    }
+    .px-15{
+        padding-left: 15px;
+        padding-right: 15px;
+
+
+    }
+    .hero img{
+        width: 100%;
+    }
+    
+    
+    .box{
+        height:300px;
+        width: 20%;
+        padding: 20px;
+        background-color: white;
+        box-shadow: 0px 0px 1px;
+    }
+    .category-section{
+        display:flex;
+        justify-content:space-evenly;
+        margin-top: -350px;
+       
+    }
+.bimg{
+    height:250px;
+    width: 100%;
+}
+.box h2{
+   margin-bottom: 10px;
+   font-size: 20px;
+
+}
+.box p{
+    font-size: 10px;
+}
+.box h6{
+    margin-top: 10px;
+    color:rgb(65, 191, 233);
+}
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.item{
+    width:50%;
+}
+.item img{
+    width: 90%;
+
+}
+.justify-content-between{
+    justify-content: space-evenly;
+
+
+}
+
+
+.mt-20{
+    margin-top: 20px;
+    height:200px;
+    width:100%;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+.signin section{
+    background-color:transparent;
+    box-shadow:none;
+
+
+}
+ .signin-section button{
+    height:40px;
+    width:100% ;
+    background-color: orange;
+    border-radius: 5px;
+}
+  
